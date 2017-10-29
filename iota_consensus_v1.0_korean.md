@@ -3,7 +3,10 @@
 >IOTA Donations for Korean version: RLNVZQOKBZRUNZUHDLNMW9XVRVTOBMNLZKXBW9PYMBCOGPCVAEMNUESFD9OGCZVILOACELXGXHIWSXWYCDMXXHNIUX
  
 # IOTA 트랜잭션, 확정 및 합의
- 
+
+이 글은 https://github.com/noneymous/iota-consensus-presentation/blob/master/README.md 를 원저자의 허락을 받고 번역한 글입니다.
+
+
  
 ## 탱글 초기 상태
  
