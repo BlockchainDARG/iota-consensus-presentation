@@ -1,5 +1,10 @@
 ><sup>IOTA Donations: QPLGOG9PMIMUAW9UDMUNZQHPXZPXDNGLBEIHILXHWHIOFHLIHPDDERXAJQKUQDEORMHSUWVZQE9JYSHIWADIIPAOJD</sup>
 
+><sup>
+  IOTA Donations for Spanish version:
+  Spanish translation: [Carpincho](http://www.iotahispano.com/2017/11/07/transacciones-confirmaciones-y-consenso-en-iota/)
+</sup>
+
 # Transacciones, Confirmaciones y Consenso en IOTA
 ## Estado inicial de la Tangle
 ![Imgur](https://i.imgur.com/nJEE6Gp.png)
