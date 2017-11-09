@@ -2,7 +2,7 @@
 
 ><sup>IOTA Donations for Spanish version:</sup>
 
-><sup>Spanish translation: [Carpincho](http://www.iotahispano.com/2017/11/07/transacciones-confirmaciones-y-consenso-en-iota/){:target="_blank"}</sup>
+><sup>Spanish translation: [Carpincho](http://www.iotahispano.com/2017/11/07/transacciones-confirmaciones-y-consenso-en-iota/)</sup>
 
 # Transacciones, Confirmaciones y Consenso en IOTA
 ## Estado inicial de la Tangle
